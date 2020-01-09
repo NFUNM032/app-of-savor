@@ -49,6 +49,7 @@
 
 ![Janet](https://images.gitee.com/uploads/images/2019/1223/162643_30d1ee60_1648222.png)
 
+
 使用场景：Janet是刚来北京留学的学生，基本不会说中文，不喜欢吃辣。他就餐时发现自己看不出菜的原料是什么，和打饭大妈无法交流，很耽误后面同学的时间。于是他退到一边，打开Savor  APP，将菜单扫描了一遍，将自己喜欢的菜名展示给大妈，成功挑选出两道适合自己的菜。
 
 ![Windy](https://images.gitee.com/uploads/images/2019/1223/162643_292a8b1d_1648222.png)
@@ -345,4 +346,3 @@
 
 但是对这两项功能进行整合，并将外国人作为核心用户群的美食翻译类App少之又少，该产品则是一款利用智能翻译、中文菜单扫描、点菜辅助来帮助外国人解决在华饮食痛点，并且全面体验中华美食的APP。其中，利用到的人工智能技术有图像识别中的[菜品识别技术](https://ai.baidu.com/tech/imagerecognition/dish)、自然语言翻译中的[语音翻译](https://ai.youdao.com/DOCSIRMA/html/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E7%BF%BB%E8%AF%91/API%E6%96%87%E6%A1%A3/%E8%AF%AD%E9%9F%B3%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1/%E8%AF%AD%E9%9F%B3%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1-API%E6%96%87%E6%A1%A3.html)和[图片翻译](https://ai.youdao.com/product-fanyi.s#ocr)。另外，通过对[人工智能概率性的分析](https://www.excelsior.edu/article/rogue-robots-human-flaws-ai-cybersecurity/)以及对API使用风险的评估，认为该产品是有发展前景的。最后，该产品还会通过特色付费课程、开办活动等方式进行盈利，从而进一步的扩大该产品的知名度与覆盖面。
 
-##### 400秒版本 Pecha Kucha 20x20版本(线上投影片含可查连结)
