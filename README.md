@@ -121,7 +121,7 @@
 
 ## 八、产品原型及交互设计
 
-##### [原型文档下载区](https://gitee.com/NFUNM032/Savor/tree/master/)
+##### [原型文档下载区](https://github.com/NFUNM032/app-of-savor)
 ##### [原型文档交互展示](http://nfunm032.gitee.io/savor)
 ##### [原型文档rp文件下载区](https://gitee.com/NFUNM032/Savor/blob/master/%E5%8E%9F%E5%9E%8B%E5%88%B6%E4%BD%9C.rp)
 
